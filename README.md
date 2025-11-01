@@ -1,5 +1,5 @@
 # atik
-logo: docs/assets/picturemy.jpg
+#logo: docs/assets/picturemy.jpg
 ##project 
 ###project1
 -description
